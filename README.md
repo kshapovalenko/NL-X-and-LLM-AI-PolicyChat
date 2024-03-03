@@ -1,7 +1,7 @@
 # Building and Evaluating AI PolicyChat 
 
 ## Background and Objectives
-Create an AI Policy Chatbot to answer AI policy questions. For this, we tested different apporoaches and pocked the best: 
+Our goal was to create an AI Policy Chatbot to answer AI policy questions. For this, we tested different approaches and picked the best: 
 - LLaMA-7B and Chat (Pre-trained/vanilla)
 - LLaMA-7B and Chat (Prompt-engineered)
 - LLaMA-7B (Fine-tuned)
