@@ -13,7 +13,7 @@ This repository contains the following files and directories:
 - `notebooks`: A folder containing all Jupyter notebooks, which include:
    - `data-cleaning.ipynb`: Code to prepare data for prompt-engineering and/or fine-tuning.
    - `prompt-engineering.ipynb`: Code to run prompt-engineering.
-   - `finetuning.ipynb`: Code to run LoRA/QLoRA fine-tuning.
+   - `fine-tuning.ipynb`: Code to run LoRA/QLoRA fine-tuning.
    - `evaluation-viz.ipynb`: Code to evaluate the predictions and visualize the results.
 - `demo`: A folder with videos demonstrating the performance of prompt-engineered and fine-tuned models.
 - `final-report.pdf`: A detailed report in PDF format summarizing the approach, methodology, results, and insights from the analysis.
