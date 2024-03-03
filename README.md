@@ -20,7 +20,7 @@ This repository contains the following files and directories:
 - `README.md`: This file provides an overview of the project, its objectives, and the contents of the repository.
 
 ## References
-- 
+See the full list of references in `final-report.pdf`. 
 
 ---
 Note: All data used in this project is sourced ethically, and the analysis adheres to the highest standards of research integrity and ethical guidelines.
