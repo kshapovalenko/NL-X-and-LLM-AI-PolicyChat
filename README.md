@@ -1,5 +1,10 @@
 # Building and Evaluating AI PolicyChatbot 
 
+Demo Link:
+https://youtu.be/NrD4Ijrltsw
+
+(also available in repository)
+
 ## Background and Objectives
 Our goal was to create a chatbot capable of answering questions related to AI policy. To achieve this, we explored various approaches and selected the most effective one:
 - LLaMA-7B and Chat (Pre-trained/vanilla)
